@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">RoomDatabase</string>
+    <string name="title">Enter the Title</string>
+    <string name="description">Enter a description</string>
+    <string name="delete_note">Delete All Notes</string>
+    <string name="save_notes">Save Notes</string>
+    <string name="sample">sample</string>
+</resources>
